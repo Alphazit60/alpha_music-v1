@@ -45,11 +45,11 @@ $(function() {
         ],
         albumArtworks = ["_1", "_2", "_3", "_4", "_5"],
         trackUrl = [
-            "https://drive.google.com/file/d/14RydKIv8LqX0UK5jgwHuuQ31cOGFFnja/view?usp=sharing",
-            "https://drive.google.com/drive/folders/1rNDb1xgxZ9LVjUhIBrb6IRKaQxgJtQhh?usp=sharing/assets/music/song2.m4a",
-            "https://drive.google.com/drive/folders/1rNDb1xgxZ9LVjUhIBrb6IRKaQxgJtQhh?usp=sharing/assets/music/song3.m4a",
-            "https://drive.google.com/drive/folders/1rNDb1xgxZ9LVjUhIBrb6IRKaQxgJtQhh?usp=sharing/assets/music/song4.m4a",
-            "https://drive.google.com/drive/folders/1rNDb1xgxZ9LVjUhIBrb6IRKaQxgJtQhh?usp=sharing/assets/music/song5.m4a"
+            "assets/music/song1.m4a",
+            "assets/music/song2.m4a",
+            "assets/music/song3.m4a",
+            "assets/music/song4.m4a",
+            "assets/music/song5.m4a"
         ],
         playPreviousTrackButton = $("#play-previous"),
         playNextTrackButton = $("#play-next"),
